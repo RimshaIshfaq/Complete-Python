@@ -1,0 +1,3 @@
+Hi
+This file is about to be appended
+This is the appended text
