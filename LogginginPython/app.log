@@ -1,0 +1,9 @@
+2026-04-09 11:27:25 - DEBUG - This is a debug message
+2026-04-09 11:27:25 - INFO - This is an info message
+2026-04-09 11:27:25 - WARNING - This is a warning message
+2026-04-09 11:27:25 - ERROR - This is an error message
+2026-04-09 11:27:25 - CRITICAL - This is a critical message
+2026-04-09 11:52:55 - Appname - DEBUG - Adding 10 and 14 to get 24
+2026-04-09 11:52:55 - Appname - DEBUG - Subtracting 14 from 10 to get -4
+2026-04-09 11:52:55 - Appname - DEBUG - Multiplying 10 and 14 to get 140
+2026-04-09 11:52:55 - Appname - ERROR - Error dividing 10 by 0: division by zero
